@@ -1,2 +1,2 @@
 nombre = input("como te llamas?")
-print(nombre)
+print(nombre + "hola")
